@@ -21,9 +21,8 @@
 ---
 
 ### 🧩 Projects I'm Proud Of
-- 🧑‍🏫 [Student Attendance Management System](https://github.com/vyshnaviGadamsetty/student-attendance-system) – Full-stack MERN app with real-time attendance and timetable management
+- 🧑‍🏫 [Student Attendance Management System](https://github.com/vyshnaviGadamsetty/Student_attenadance_system) – Full-stack MERN app with real-time attendance and timetable management
 - 🎯 [Recipe House](https://github.com/vyshnaviGadamsetty/recipe-house) – React + Tailwind app fetching recipes via Edamam API
-- 🛒 [Grocery Store](https://github.com/vyshnaviGadamsetty/grocery-store) – Simple and intuitive shopping cart UI using JS
 - 🎥 [Cineverse](https://github.com/vyshnaviGadamsetty/Cineverse)-A Java Swing-based movie ticket booking system with a stylish UI and seamless SQLite integration. Supports user and admin functionalities including ticket booking, movie management, and reports.
 - 🧮 Customer Billing System (C++)  
 - 📝 Online Examination System (MySQL)

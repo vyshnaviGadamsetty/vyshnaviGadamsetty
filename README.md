@@ -29,13 +29,6 @@
 
 ---
 
-
-### 📈 GitHub Stats
-![Vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshnaviGadamsetty&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnaviGadamsetty&layout=compact&theme=radical)
-
----
-
 ### ✨ Fun Facts
 - 💬 I love UI/UX as much as backend logic!
 - 🧁 My laddu cravings are unmatched.
@@ -51,4 +44,9 @@
 
 ---
 
+### 📈 GitHub Stats
+![Vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshnaviGadamsetty&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnaviGadamsetty&layout=compact&theme=radical)
+
+---
 _Thanks for stopping by! Let's build something awesome together 🔥_
